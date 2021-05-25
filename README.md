@@ -1,4 +1,4 @@
-# xCode-the-Game
+# Hack To The Centre-the-Game
 this is a C++ based guessing game. 
 here the user has to hack into a govt. server where time is really precious
 and has to get to the core of the database.
